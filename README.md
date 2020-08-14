@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**raimundorodrigues1/raimundorodrigues1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+# Hello! Welcome to my profile 👔
+ 
+## I'm Raimundo Rodrigues 💻 🚀
 
-Here are some ideas to get you started:
+ 
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raimundorodrigues1)](https://github.com/raimundorodrigues1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raimundo-rodrigues-79357211a)](https://www.linkedin.com/in/raimundo-rodrigues-79357211a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raimundorodriguesbbt@gmail.com)](mailto:raimundorodriguesbbt@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- Thanks for visiting. 
+ 
+
